@@ -1,0 +1,128 @@
+{
+  "release_type": "aggregate_only",
+  "respondent_level_rows": 0,
+  "source_workbook_included": false,
+  "small_cell_threshold": 5,
+  "tables": [
+    {
+      "file": "data/tab_01_analysis_flow.csv",
+      "rows": 14,
+      "columns": 4,
+      "suppressed_cells": 1
+    },
+    {
+      "file": "data/tab_02_sample_profile.csv",
+      "rows": 56,
+      "columns": 9,
+      "suppressed_cells": 8
+    },
+    {
+      "file": "data/tab_02b_retirement_duration.csv",
+      "rows": 2,
+      "columns": 9,
+      "suppressed_cells": 1
+    },
+    {
+      "file": "data/tab_02c_profile_comparisons.csv",
+      "rows": 1,
+      "columns": 29,
+      "suppressed_cells": 0
+    },
+    {
+      "file": "data/tab_02d_nationality.csv",
+      "rows": 9,
+      "columns": 8,
+      "suppressed_cells": 0
+    },
+    {
+      "file": "data/tab_03_residential_markers.csv",
+      "rows": 25,
+      "columns": 12,
+      "suppressed_cells": 0
+    },
+    {
+      "file": "data/tab_04_territory_use.csv",
+      "rows": 10,
+      "columns": 11,
+      "suppressed_cells": 0
+    },
+    {
+      "file": "data/tab_04b_territory_composition.csv",
+      "rows": 58,
+      "columns": 13,
+      "suppressed_cells": 16
+    },
+    {
+      "file": "data/tab_05_r2_dimension_profile.csv",
+      "rows": 11,
+      "columns": 32,
+      "suppressed_cells": 1
+    },
+    {
+      "file": "data/tab_06_group_comparisons.csv",
+      "rows": 15,
+      "columns": 29,
+      "suppressed_cells": 0
+    },
+    {
+      "file": "data/tab_06a_dimension_global_tests.csv",
+      "rows": 5,
+      "columns": 13,
+      "suppressed_cells": 0
+    },
+    {
+      "file": "data/tab_07_relational_outcome_comparisons.csv",
+      "rows": 2,
+      "columns": 29,
+      "suppressed_cells": 0
+    },
+    {
+      "file": "data/tab_07b_relational_outcome_distributions.csv",
+      "rows": 32,
+      "columns": 12,
+      "suppressed_cells": 0
+    },
+    {
+      "file": "data/tab_07c_relational_response_summary.csv",
+      "rows": 4,
+      "columns": 19,
+      "suppressed_cells": 0
+    },
+    {
+      "file": "data/tab_08_profile_outcome_models.csv",
+      "rows": 4,
+      "columns": 14,
+      "suppressed_cells": 0
+    },
+    {
+      "file": "data/tab_s01_full_likert_distributions.csv",
+      "rows": 176,
+      "columns": 12,
+      "suppressed_cells": 10
+    },
+    {
+      "file": "data/tab_s02_item_missingness.csv",
+      "rows": 45,
+      "columns": 11,
+      "suppressed_cells": 9
+    },
+    {
+      "file": "data/tab_s04_measurement_matrix.csv",
+      "rows": 25,
+      "columns": 9,
+      "suppressed_cells": 0
+    },
+    {
+      "file": "data/tab_s08_profile_model_coefficients.csv",
+      "rows": 22,
+      "columns": 12,
+      "suppressed_cells": 0
+    },
+    {
+      "file": "data/tab_s09_profile_model_diagnostics.csv",
+      "rows": 48,
+      "columns": 12,
+      "suppressed_cells": 0
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+domain,indicator_id,indicator_label,group_id,group_label,response,response_order,count,pct_valid,pct_eligible,valid_n,eligible_n
+Ancrage et légitimité territoriale,TR05,Attachement déclaré à la commune,r2_retired_outside,R2 retraités hors Valais,Pas du tout d'accord,1,16,4.651163,4.597701,344,348
+Ancrage et légitimité territoriale,TR05,Attachement déclaré à la commune,r2_retired_outside,R2 retraités hors Valais,Plutôt pas d'accord,2,34,9.883721,9.770115,344,348
+Ancrage et légitimité territoriale,TR05,Attachement déclaré à la commune,r2_retired_outside,R2 retraités hors Valais,Ni d'accord ni pas d'accord,3,66,19.186047,18.965517,344,348
+Ancrage et légitimité territoriale,TR05,Attachement déclaré à la commune,r2_retired_outside,R2 retraités hors Valais,Plutôt d'accord,4,128,37.209302,36.781609,344,348
+Ancrage et légitimité territoriale,TR05,Attachement déclaré à la commune,r2_retired_outside,R2 retraités hors Valais,Tout à fait d'accord,5,100,29.069767,28.735632,344,348
+Ancrage et légitimité territoriale,TR05,Attachement déclaré à la commune,r2_retired_outside,R2 retraités hors Valais,Sans avis,6,<5,,,344,348
+Ancrage et légitimité territoriale,TR05,Attachement déclaré à la commune,r2_retired_outside,R2 retraités hors Valais,Blanc,7,0,,0.0,344,348
+Ancrage et légitimité territoriale,TR05,Attachement déclaré à la commune,r2_retired_outside,R2 retraités hors Valais,Autre non valide,8,0,,0.0,344,348
+Ancrage et légitimité territoriale,TR06,Sentiment d'être chez soi,r2_retired_outside,R2 retraités hors Valais,Pas du tout d'accord,1,18,5.538462,5.172414,325,348
+Ancrage et légitimité territoriale,TR06,Sentiment d'être chez soi,r2_retired_outside,R2 retraités hors Valais,Plutôt pas d'accord,2,34,10.461538,9.770115,325,348
+Ancrage et légitimité territoriale,TR06,Sentiment d'être chez soi,r2_retired_outside,R2 retraités hors Valais,Ni d'accord ni pas d'accord,3,59,18.153846,16.954023,325,348
+Ancrage et légitimité territoriale,TR06,Sentiment d'être chez soi,r2_retired_outside,R2 retraités hors Valais,Plutôt d'accord,4,130,40.0,37.356322,325,348
+Ancrage et légitimité territoriale,TR06,Sentiment d'être chez soi,r2_retired_outside,R2 retraités hors Valais,Tout à fait d'accord,5,84,25.846154,24.137931,325,348
+Ancrage et légitimité territoriale,TR06,Sentiment d'être chez soi,r2_retired_outside,R2 retraités hors Valais,Sans avis,6,7,,2.011494,325,348
+Ancrage et légitimité territoriale,TR06,Sentiment d'être chez soi,r2_retired_outside,R2 retraités hors Valais,Blanc,7,16,,4.597701,325,348
+Ancrage et légitimité territoriale,TR06,Sentiment d'être chez soi,r2_retired_outside,R2 retraités hors Valais,Autre non valide,8,0,,0.0,325,348
+Rôle perçu dans le vivre-ensemble,RV01,Intérêt pour l'actualité politique communale,r2_retired_outside,R2 retraités hors Valais,Pas du tout d'accord,1,12,4.026846,3.448276,298,348
+Rôle perçu dans le vivre-ensemble,RV01,Intérêt pour l'actualité politique communale,r2_retired_outside,R2 retraités hors Valais,Plutôt pas d'accord,2,27,9.060403,7.758621,298,348
+Rôle perçu dans le vivre-ensemble,RV01,Intérêt pour l'actualité politique communale,r2_retired_outside,R2 retraités hors Valais,Ni d'accord ni pas d'accord,3,28,9.395973,8.045977,298,348
+Rôle perçu dans le vivre-ensemble,RV01,Intérêt pour l'actualité politique communale,r2_retired_outside,R2 retraités hors Valais,Plutôt d'accord,4,117,39.261745,33.62069,298,348
+Rôle perçu dans le vivre-ensemble,RV01,Intérêt pour l'actualité politique communale,r2_retired_outside,R2 retraités hors Valais,Tout à fait d'accord,5,114,38.255034,32.758621,298,348
+Rôle perçu dans le vivre-ensemble,RV01,Intérêt pour l'actualité politique communale,r2_retired_outside,R2 retraités hors Valais,Sans avis,6,20,,5.747126,298,348
+Rôle perçu dans le vivre-ensemble,RV01,Intérêt pour l'actualité politique communale,r2_retired_outside,R2 retraités hors Valais,Blanc,7,30,,8.62069,298,348
+Rôle perçu dans le vivre-ensemble,RV01,Intérêt pour l'actualité politique communale,r2_retired_outside,R2 retraités hors Valais,Autre non valide,8,0,,0.0,298,348
+Rôle perçu dans le vivre-ensemble,RV02,Intérêt pour le développement économique,r2_retired_outside,R2 retraités hors Valais,Pas du tout d'accord,1,7,2.302632,2.011494,304,348
+Rôle perçu dans le vivre-ensemble,RV02,Intérêt pour le développement économique,r2_retired_outside,R2 retraités hors Valais,Plutôt pas d'accord,2,22,7.236842,6.321839,304,348
+Rôle perçu dans le vivre-ensemble,RV02,Intérêt pour le développement économique,r2_retired_outside,R2 retraités hors Valais,Ni d'accord ni pas d'accord,3,21,6.907895,6.034483,304,348
+Rôle perçu dans le vivre-ensemble,RV02,Intérêt pour le développement économique,r2_retired_outside,R2 retraités hors Valais,Plutôt d'accord,4,128,42.105263,36.781609,304,348
+Rôle perçu dans le vivre-ensemble,RV02,Intérêt pour le développement économique,r2_retired_outside,R2 retraités hors Valais,Tout à fait d'accord,5,126,41.447368,36.206897,304,348
+Rôle perçu dans le vivre-ensemble,RV02,Intérêt pour le développement économique,r2_retired_outside,R2 retraités hors Valais,Sans avis,6,17,,4.885057,304,348
+Rôle perçu dans le vivre-ensemble,RV02,Intérêt pour le développement économique,r2_retired_outside,R2 retraités hors Valais,Blanc,7,27,,7.758621,304,348
+Rôle perçu dans le vivre-ensemble,RV02,Intérêt pour le développement économique,r2_retired_outside,R2 retraités hors Valais,Autre non valide,8,0,,0.0,304,348
+Rôle perçu dans le vivre-ensemble,RV03,Coresponsabilité envers la qualité de vie,r2_retired_outside,R2 retraités hors Valais,Pas du tout d'accord,1,5,1.66113,1.436782,301,348
+Rôle perçu dans le vivre-ensemble,RV03,Coresponsabilité envers la qualité de vie,r2_retired_outside,R2 retraités hors Valais,Plutôt pas d'accord,2,28,9.302326,8.045977,301,348
+Rôle perçu dans le vivre-ensemble,RV03,Coresponsabilité envers la qualité de vie,r2_retired_outside,R2 retraités hors Valais,Ni d'accord ni pas d'accord,3,32,10.631229,9.195402,301,348
+Rôle perçu dans le vivre-ensemble,RV03,Coresponsabilité envers la qualité de vie,r2_retired_outside,R2 retraités hors Valais,Plutôt d'accord,4,127,42.192691,36.494253,301,348
+Rôle perçu dans le vivre-ensemble,RV03,Coresponsabilité envers la qualité de vie,r2_retired_outside,R2 retraités hors Valais,Tout à fait d'accord,5,109,36.212625,31.321839,301,348
+Rôle perçu dans le vivre-ensemble,RV03,Coresponsabilité envers la qualité de vie,r2_retired_outside,R2 retraités hors Valais,Sans avis,6,19,,5.45977,301,348
+Rôle perçu dans le vivre-ensemble,RV03,Coresponsabilité envers la qualité de vie,r2_retired_outside,R2 retraités hors Valais,Blanc,7,28,,8.045977,301,348
+Rôle perçu dans le vivre-ensemble,RV03,Coresponsabilité envers la qualité de vie,r2_retired_outside,R2 retraités hors Valais,Autre non valide,8,0,,0.0,301,348
+Vision du territoire,VT01,Nécessité des résidences secondaires malgré les inconvénients,r2_retired_outside,R2 retraités hors Valais,Pas du tout d'accord,1,10,3.205128,2.873563,312,348
+Vision du territoire,VT01,Nécessité des résidences secondaires malgré les inconvénients,r2_retired_outside,R2 retraités hors Valais,Plutôt pas d'accord,2,17,5.448718,4.885057,312,348
+Vision du territoire,VT01,Nécessité des résidences secondaires malgré les inconvénients,r2_retired_outside,R2 retraités hors Valais,Ni d'accord ni pas d'accord,3,27,8.653846,7.758621,312,348
+Vision du territoire,VT01,Nécessité des résidences secondaires malgré les inconvénients,r2_retired_outside,R2 retraités hors Valais,Plutôt d'accord,4,122,39.102564,35.057471,312,348
+Vision du territoire,VT01,Nécessité des résidences secondaires malgré les inconvénients,r2_retired_outside,R2 retraités hors Valais,Tout à fait d'accord,5,136,43.589744,39.08046,312,348
+Vision du territoire,VT01,Nécessité des résidences secondaires malgré les inconvénients,r2_retired_outside,R2 retraités hors Valais,Sans avis,6,13,,3.735632,312,348
+Vision du territoire,VT01,Nécessité des résidences secondaires malgré les inconvénients,r2_retired_outside,R2 retraités hors Valais,Blanc,7,23,,6.609195,312,348
+Vision du territoire,VT01,Nécessité des résidences secondaires malgré les inconvénients,r2_retired_outside,R2 retraités hors Valais,Autre non valide,8,0,,0.0,312,348
+Vision du territoire,VT02,Commune principalement comme lieu de services et loisirs,r2_retired_outside,R2 retraités hors Valais,Pas du tout d'accord,1,11,3.606557,3.16092,305,348
+Vision du territoire,VT02,Commune principalement comme lieu de services et loisirs,r2_retired_outside,R2 retraités hors Valais,Plutôt pas d'accord,2,46,15.081967,13.218391,305,348
+Vision du territoire,VT02,Commune principalement comme lieu de services et loisirs,r2_retired_outside,R2 retraités hors Valais,Ni d'accord ni pas d'accord,3,51,16.721311,14.655172,305,348
+Vision du territoire,VT02,Commune principalement comme lieu de services et loisirs,r2_retired_outside,R2 retraités hors Valais,Plutôt d'accord,4,133,43.606557,38.218391,305,348
+Vision du territoire,VT02,Commune principalement comme lieu de services et loisirs,r2_retired_outside,R2 retraités hors Valais,Tout à fait d'accord,5,64,20.983607,18.390805,305,348
+Vision du territoire,VT02,Commune principalement comme lieu de services et loisirs,r2_retired_outside,R2 retraités hors Valais,Sans avis,6,16,,4.597701,305,348
+Vision du territoire,VT02,Commune principalement comme lieu de services et loisirs,r2_retired_outside,R2 retraités hors Valais,Blanc,7,27,,7.758621,305,348
+Vision du territoire,VT02,Commune principalement comme lieu de services et loisirs,r2_retired_outside,R2 retraités hors Valais,Autre non valide,8,0,,0.0,305,348
+Vision du territoire,VT03,Ressources occupées au détriment des résidents principaux,r2_retired_outside,R2 retraités hors Valais,Pas du tout d'accord,1,77,25.752508,22.126437,299,348
+Vision du territoire,VT03,Ressources occupées au détriment des résidents principaux,r2_retired_outside,R2 retraités hors Valais,Plutôt pas d'accord,2,104,34.782609,29.885057,299,348
+Vision du territoire,VT03,Ressources occupées au détriment des résidents principaux,r2_retired_outside,R2 retraités hors Valais,Ni d'accord ni pas d'accord,3,60,20.06689,17.241379,299,348
+Vision du territoire,VT03,Ressources occupées au détriment des résidents principaux,r2_retired_outside,R2 retraités hors Valais,Plutôt d'accord,4,49,16.38796,14.08046,299,348
+Vision du territoire,VT03,Ressources occupées au détriment des résidents principaux,r2_retired_outside,R2 retraités hors Valais,Tout à fait d'accord,5,9,3.010033,2.586207,299,348
+Vision du territoire,VT03,Ressources occupées au détriment des résidents principaux,r2_retired_outside,R2 retraités hors Valais,Sans avis,6,21,,6.034483,299,348
+Vision du territoire,VT03,Ressources occupées au détriment des résidents principaux,r2_retired_outside,R2 retraités hors Valais,Blanc,7,28,,8.045977,299,348
+Vision du territoire,VT03,Ressources occupées au détriment des résidents principaux,r2_retired_outside,R2 retraités hors Valais,Autre non valide,8,0,,0.0,299,348
+Ancrage et légitimité territoriale,LG01,Poids décisionnel supérieur des résidents principaux,r2_retired_outside,R2 retraités hors Valais,Pas du tout d'accord,1,31,10.130719,8.908046,306,348
+Ancrage et légitimité territoriale,LG01,Poids décisionnel supérieur des résidents principaux,r2_retired_outside,R2 retraités hors Valais,Plutôt pas d'accord,2,52,16.993464,14.942529,306,348
+Ancrage et légitimité territoriale,LG01,Poids décisionnel supérieur des résidents principaux,r2_retired_outside,R2 retraités hors Valais,Ni d'accord ni pas d'accord,3,74,24.183007,21.264368,306,348
+Ancrage et légitimité territoriale,LG01,Poids décisionnel supérieur des résidents principaux,r2_retired_outside,R2 retraités hors Valais,Plutôt d'accord,4,97,31.699346,27.873563,306,348
+Ancrage et légitimité territoriale,LG01,Poids décisionnel supérieur des résidents principaux,r2_retired_outside,R2 retraités hors Valais,Tout à fait d'accord,5,52,16.993464,14.942529,306,348
+Ancrage et légitimité territoriale,LG01,Poids décisionnel supérieur des résidents principaux,r2_retired_outside,R2 retraités hors Valais,Sans avis,6,13,,3.735632,306,348
+Ancrage et légitimité territoriale,LG01,Poids décisionnel supérieur des résidents principaux,r2_retired_outside,R2 retraités hors Valais,Blanc,7,29,,8.333333,306,348
+Ancrage et légitimité territoriale,LG01,Poids décisionnel supérieur des résidents principaux,r2_retired_outside,R2 retraités hors Valais,Autre non valide,8,0,,0.0,306,348
+Perception des relations intergroupes,ER01,Méfiance entre groupes,r2_retired_outside,R2 retraités hors Valais,Pas du tout d'accord,1,51,16.346154,14.655172,312,348
+Perception des relations intergroupes,ER01,Méfiance entre groupes,r2_retired_outside,R2 retraités hors Valais,Plutôt pas d'accord,2,71,22.75641,20.402299,312,348
+Perception des relations intergroupes,ER01,Méfiance entre groupes,r2_retired_outside,R2 retraités hors Valais,Ni d'accord ni pas d'accord,3,65,20.833333,18.678161,312,348
+Perception des relations intergroupes,ER01,Méfiance entre groupes,r2_retired_outside,R2 retraités hors Valais,Plutôt d'accord,4,94,30.128205,27.011494,312,348
+Perception des relations intergroupes,ER01,Méfiance entre groupes,r2_retired_outside,R2 retraités hors Valais,Tout à fait d'accord,5,31,9.935897,8.908046,312,348
+Perception des relations intergroupes,ER01,Méfiance entre groupes,r2_retired_outside,R2 retraités hors Valais,Sans avis,6,21,,6.034483,312,348
+Perception des relations intergroupes,ER01,Méfiance entre groupes,r2_retired_outside,R2 retraités hors Valais,Blanc,7,15,,4.310345,312,348
+Perception des relations intergroupes,ER01,Méfiance entre groupes,r2_retired_outside,R2 retraités hors Valais,Autre non valide,8,0,,0.0,312,348
+Perception des relations intergroupes,ER03,Évaluation en miroir de la cohabitation avec l’autre groupe,r2_retired_outside,R2 retraités hors Valais,Pas du tout d'accord,1,9,2.960526,2.586207,304,348
+Perception des relations intergroupes,ER03,Évaluation en miroir de la cohabitation avec l’autre groupe,r2_retired_outside,R2 retraités hors Valais,Plutôt pas d'accord,2,27,8.881579,7.758621,304,348
+Perception des relations intergroupes,ER03,Évaluation en miroir de la cohabitation avec l’autre groupe,r2_retired_outside,R2 retraités hors Valais,Ni d'accord ni pas d'accord,3,45,14.802632,12.931034,304,348
+Perception des relations intergroupes,ER03,Évaluation en miroir de la cohabitation avec l’autre groupe,r2_retired_outside,R2 retraités hors Valais,Plutôt d'accord,4,145,47.697368,41.666667,304,348
+Perception des relations intergroupes,ER03,Évaluation en miroir de la cohabitation avec l’autre groupe,r2_retired_outside,R2 retraités hors Valais,Tout à fait d'accord,5,78,25.657895,22.413793,304,348
+Perception des relations intergroupes,ER03,Évaluation en miroir de la cohabitation avec l’autre groupe,r2_retired_outside,R2 retraités hors Valais,Sans avis,6,19,,5.45977,304,348
+Perception des relations intergroupes,ER03,Évaluation en miroir de la cohabitation avec l’autre groupe,r2_retired_outside,R2 retraités hors Valais,Blanc,7,25,,7.183908,304,348
+Perception des relations intergroupes,ER03,Évaluation en miroir de la cohabitation avec l’autre groupe,r2_retired_outside,R2 retraités hors Valais,Autre non valide,8,0,,0.0,304,348
+Ancrage et légitimité territoriale,TR05,Attachement déclaré à la commune,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Pas du tout d'accord,1,<5,,,131,137
+Ancrage et légitimité territoriale,TR05,Attachement déclaré à la commune,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Plutôt pas d'accord,2,7,5.343511,5.109489,131,137
+Ancrage et légitimité territoriale,TR05,Attachement déclaré à la commune,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Ni d'accord ni pas d'accord,3,10,7.633588,7.29927,131,137
+Ancrage et légitimité territoriale,TR05,Attachement déclaré à la commune,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Plutôt d'accord,4,43,32.824427,31.386861,131,137
+Ancrage et légitimité territoriale,TR05,Attachement déclaré à la commune,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Tout à fait d'accord,5,67,51.145038,48.905109,131,137
+Ancrage et légitimité territoriale,TR05,Attachement déclaré à la commune,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Sans avis,6,<5,,,131,137
+Ancrage et légitimité territoriale,TR05,Attachement déclaré à la commune,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Blanc,7,<5,,,131,137
+Ancrage et légitimité territoriale,TR05,Attachement déclaré à la commune,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Autre non valide,8,0,,0.0,131,137
+Ancrage et légitimité territoriale,TR06,Sentiment d'être chez soi,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Pas du tout d'accord,1,<5,,,121,137
+Ancrage et légitimité territoriale,TR06,Sentiment d'être chez soi,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Plutôt pas d'accord,2,<5,,,121,137
+Ancrage et légitimité territoriale,TR06,Sentiment d'être chez soi,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Ni d'accord ni pas d'accord,3,16,13.22314,11.678832,121,137
+Ancrage et légitimité territoriale,TR06,Sentiment d'être chez soi,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Plutôt d'accord,4,36,29.752066,26.277372,121,137
+Ancrage et légitimité territoriale,TR06,Sentiment d'être chez soi,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Tout à fait d'accord,5,65,53.719008,47.445255,121,137
+Ancrage et légitimité territoriale,TR06,Sentiment d'être chez soi,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Sans avis,6,0,,0.0,121,137
+Ancrage et légitimité territoriale,TR06,Sentiment d'être chez soi,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Blanc,7,16,,11.678832,121,137
+Ancrage et légitimité territoriale,TR06,Sentiment d'être chez soi,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Autre non valide,8,0,,0.0,121,137
+Rôle perçu dans le vivre-ensemble,RV01,Intérêt pour l'actualité politique communale,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Pas du tout d'accord,1,5,4.761905,3.649635,105,137
+Rôle perçu dans le vivre-ensemble,RV01,Intérêt pour l'actualité politique communale,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Plutôt pas d'accord,2,5,4.761905,3.649635,105,137
+Rôle perçu dans le vivre-ensemble,RV01,Intérêt pour l'actualité politique communale,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Ni d'accord ni pas d'accord,3,7,6.666667,5.109489,105,137
+Rôle perçu dans le vivre-ensemble,RV01,Intérêt pour l'actualité politique communale,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Plutôt d'accord,4,29,27.619048,21.167883,105,137
+Rôle perçu dans le vivre-ensemble,RV01,Intérêt pour l'actualité politique communale,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Tout à fait d'accord,5,59,56.190476,43.065693,105,137
+Rôle perçu dans le vivre-ensemble,RV01,Intérêt pour l'actualité politique communale,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Sans avis,6,9,,6.569343,105,137
+Rôle perçu dans le vivre-ensemble,RV01,Intérêt pour l'actualité politique communale,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Blanc,7,23,,16.788321,105,137
+Rôle perçu dans le vivre-ensemble,RV01,Intérêt pour l'actualité politique communale,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Autre non valide,8,0,,0.0,105,137
+Rôle perçu dans le vivre-ensemble,RV02,Intérêt pour le développement économique,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Pas du tout d'accord,1,<5,,,105,137
+Rôle perçu dans le vivre-ensemble,RV02,Intérêt pour le développement économique,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Plutôt pas d'accord,2,<5,,,105,137
+Rôle perçu dans le vivre-ensemble,RV02,Intérêt pour le développement économique,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Ni d'accord ni pas d'accord,3,<5,,,105,137
+Rôle perçu dans le vivre-ensemble,RV02,Intérêt pour le développement économique,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Plutôt d'accord,4,40,38.095238,29.19708,105,137
+Rôle perçu dans le vivre-ensemble,RV02,Intérêt pour le développement économique,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Tout à fait d'accord,5,57,54.285714,41.605839,105,137
+Rôle perçu dans le vivre-ensemble,RV02,Intérêt pour le développement économique,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Sans avis,6,9,,6.569343,105,137
+Rôle perçu dans le vivre-ensemble,RV02,Intérêt pour le développement économique,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Blanc,7,23,,16.788321,105,137
+Rôle perçu dans le vivre-ensemble,RV02,Intérêt pour le développement économique,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Autre non valide,8,0,,0.0,105,137
+Rôle perçu dans le vivre-ensemble,RV03,Coresponsabilité envers la qualité de vie,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Pas du tout d'accord,1,<5,,,108,137
+Rôle perçu dans le vivre-ensemble,RV03,Coresponsabilité envers la qualité de vie,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Plutôt pas d'accord,2,5,4.62963,3.649635,108,137
+Rôle perçu dans le vivre-ensemble,RV03,Coresponsabilité envers la qualité de vie,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Ni d'accord ni pas d'accord,3,11,10.185185,8.029197,108,137
+Rôle perçu dans le vivre-ensemble,RV03,Coresponsabilité envers la qualité de vie,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Plutôt d'accord,4,39,36.111111,28.467153,108,137
+Rôle perçu dans le vivre-ensemble,RV03,Coresponsabilité envers la qualité de vie,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Tout à fait d'accord,5,50,46.296296,36.49635,108,137
+Rôle perçu dans le vivre-ensemble,RV03,Coresponsabilité envers la qualité de vie,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Sans avis,6,5,,3.649635,108,137
+Rôle perçu dans le vivre-ensemble,RV03,Coresponsabilité envers la qualité de vie,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Blanc,7,24,,17.518248,108,137
+Rôle perçu dans le vivre-ensemble,RV03,Coresponsabilité envers la qualité de vie,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Autre non valide,8,0,,0.0,108,137
+Vision du territoire,VT01,Nécessité des résidences secondaires malgré les inconvénients,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Pas du tout d'accord,1,14,13.084112,10.218978,107,137
+Vision du territoire,VT01,Nécessité des résidences secondaires malgré les inconvénients,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Plutôt pas d'accord,2,15,14.018692,10.948905,107,137
+Vision du territoire,VT01,Nécessité des résidences secondaires malgré les inconvénients,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Ni d'accord ni pas d'accord,3,18,16.82243,13.138686,107,137
+Vision du territoire,VT01,Nécessité des résidences secondaires malgré les inconvénients,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Plutôt d'accord,4,43,40.186916,31.386861,107,137
+Vision du territoire,VT01,Nécessité des résidences secondaires malgré les inconvénients,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Tout à fait d'accord,5,17,15.88785,12.408759,107,137
+Vision du territoire,VT01,Nécessité des résidences secondaires malgré les inconvénients,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Sans avis,6,12,,8.759124,107,137
+Vision du territoire,VT01,Nécessité des résidences secondaires malgré les inconvénients,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Blanc,7,18,,13.138686,107,137
+Vision du territoire,VT01,Nécessité des résidences secondaires malgré les inconvénients,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Autre non valide,8,0,,0.0,107,137
+Vision du territoire,VT02,Commune principalement comme lieu de services et loisirs,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Pas du tout d'accord,1,7,7.070707,5.109489,99,137
+Vision du territoire,VT02,Commune principalement comme lieu de services et loisirs,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Plutôt pas d'accord,2,7,7.070707,5.109489,99,137
+Vision du territoire,VT02,Commune principalement comme lieu de services et loisirs,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Ni d'accord ni pas d'accord,3,15,15.151515,10.948905,99,137
+Vision du territoire,VT02,Commune principalement comme lieu de services et loisirs,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Plutôt d'accord,4,42,42.424242,30.656934,99,137
+Vision du territoire,VT02,Commune principalement comme lieu de services et loisirs,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Tout à fait d'accord,5,28,28.282828,20.437956,99,137
+Vision du territoire,VT02,Commune principalement comme lieu de services et loisirs,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Sans avis,6,17,,12.408759,99,137
+Vision du territoire,VT02,Commune principalement comme lieu de services et loisirs,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Blanc,7,21,,15.328467,99,137
+Vision du territoire,VT02,Commune principalement comme lieu de services et loisirs,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Autre non valide,8,0,,0.0,99,137
+Vision du territoire,VT03,Ressources occupées au détriment des résidents principaux,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Pas du tout d'accord,1,11,10.784314,8.029197,102,137
+Vision du territoire,VT03,Ressources occupées au détriment des résidents principaux,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Plutôt pas d'accord,2,19,18.627451,13.868613,102,137
+Vision du territoire,VT03,Ressources occupées au détriment des résidents principaux,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Ni d'accord ni pas d'accord,3,29,28.431373,21.167883,102,137
+Vision du territoire,VT03,Ressources occupées au détriment des résidents principaux,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Plutôt d'accord,4,22,21.568627,16.058394,102,137
+Vision du territoire,VT03,Ressources occupées au détriment des résidents principaux,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Tout à fait d'accord,5,21,20.588235,15.328467,102,137
+Vision du territoire,VT03,Ressources occupées au détriment des résidents principaux,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Sans avis,6,13,,9.489051,102,137
+Vision du territoire,VT03,Ressources occupées au détriment des résidents principaux,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Blanc,7,22,,16.058394,102,137
+Vision du territoire,VT03,Ressources occupées au détriment des résidents principaux,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Autre non valide,8,0,,0.0,102,137
+Ancrage et légitimité territoriale,LG01,Poids décisionnel supérieur des résidents principaux,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Pas du tout d'accord,1,11,10.185185,8.029197,108,137
+Ancrage et légitimité territoriale,LG01,Poids décisionnel supérieur des résidents principaux,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Plutôt pas d'accord,2,6,5.555556,4.379562,108,137
+Ancrage et légitimité territoriale,LG01,Poids décisionnel supérieur des résidents principaux,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Ni d'accord ni pas d'accord,3,5,4.62963,3.649635,108,137
+Ancrage et légitimité territoriale,LG01,Poids décisionnel supérieur des résidents principaux,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Plutôt d'accord,4,25,23.148148,18.248175,108,137
+Ancrage et légitimité territoriale,LG01,Poids décisionnel supérieur des résidents principaux,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Tout à fait d'accord,5,61,56.481481,44.525547,108,137
+Ancrage et légitimité territoriale,LG01,Poids décisionnel supérieur des résidents principaux,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Sans avis,6,7,,5.109489,108,137
+Ancrage et légitimité territoriale,LG01,Poids décisionnel supérieur des résidents principaux,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Blanc,7,22,,16.058394,108,137
+Ancrage et légitimité territoriale,LG01,Poids décisionnel supérieur des résidents principaux,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Autre non valide,8,0,,0.0,108,137
+Perception des relations intergroupes,ER01,Méfiance entre groupes,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Pas du tout d'accord,1,20,18.691589,14.59854,107,137
+Perception des relations intergroupes,ER01,Méfiance entre groupes,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Plutôt pas d'accord,2,25,23.364486,18.248175,107,137
+Perception des relations intergroupes,ER01,Méfiance entre groupes,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Ni d'accord ni pas d'accord,3,29,27.102804,21.167883,107,137
+Perception des relations intergroupes,ER01,Méfiance entre groupes,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Plutôt d'accord,4,24,22.429907,17.518248,107,137
+Perception des relations intergroupes,ER01,Méfiance entre groupes,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Tout à fait d'accord,5,9,8.411215,6.569343,107,137
+Perception des relations intergroupes,ER01,Méfiance entre groupes,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Sans avis,6,16,,11.678832,107,137
+Perception des relations intergroupes,ER01,Méfiance entre groupes,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Blanc,7,14,,10.218978,107,137
+Perception des relations intergroupes,ER01,Méfiance entre groupes,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Autre non valide,8,0,,0.0,107,137
+Perception des relations intergroupes,ER03,Évaluation en miroir de la cohabitation avec l’autre groupe,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Pas du tout d'accord,1,5,4.807692,3.649635,104,137
+Perception des relations intergroupes,ER03,Évaluation en miroir de la cohabitation avec l’autre groupe,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Plutôt pas d'accord,2,6,5.769231,4.379562,104,137
+Perception des relations intergroupes,ER03,Évaluation en miroir de la cohabitation avec l’autre groupe,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Ni d'accord ni pas d'accord,3,21,20.192308,15.328467,104,137
+Perception des relations intergroupes,ER03,Évaluation en miroir de la cohabitation avec l’autre groupe,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Plutôt d'accord,4,50,48.076923,36.49635,104,137
+Perception des relations intergroupes,ER03,Évaluation en miroir de la cohabitation avec l’autre groupe,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Tout à fait d'accord,5,22,21.153846,16.058394,104,137
+Perception des relations intergroupes,ER03,Évaluation en miroir de la cohabitation avec l’autre groupe,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Sans avis,6,9,,6.569343,104,137
+Perception des relations intergroupes,ER03,Évaluation en miroir de la cohabitation avec l’autre groupe,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Blanc,7,24,,17.518248,104,137
+Perception des relations intergroupes,ER03,Évaluation en miroir de la cohabitation avec l’autre groupe,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,Autre non valide,8,0,,0.0,104,137

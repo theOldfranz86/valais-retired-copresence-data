@@ -1,0 +1,46 @@
+domain,indicator_id,indicator_label,group_id,group_label,eligible_n,valid_n,sans_avis_n,blank_or_unavailable_n,other_invalid_n,valid_pct
+Configuration résidentielle et marqueurs biographiques,TR01,Origine valaisanne,r2_retired_outside,R2 retraités hors Valais,348,348,0,0,0,100.0
+Configuration résidentielle et marqueurs biographiques,TR02,Année d'entrée dans la configuration résidentielle,r2_retired_outside,R2 retraités hors Valais,348,348,0,0,0,100.0
+Configuration résidentielle et marqueurs biographiques,TR03,Fréquence de séjour,r2_retired_outside,R2 retraités hors Valais,348,346,0,<5,0,99.425287
+Configuration résidentielle et marqueurs biographiques,TR04,Statut d'occupation du logement,r2_retired_outside,R2 retraités hors Valais,348,347,0,<5,0,99.712644
+Ancrage et légitimité territoriale,TR05,Attachement déclaré à la commune,r2_retired_outside,R2 retraités hors Valais,348,344,<5,0,0,98.850575
+Ancrage et légitimité territoriale,TR06,Sentiment d'être chez soi,r2_retired_outside,R2 retraités hors Valais,348,325,7,16,0,93.390805
+Configuration résidentielle et marqueurs biographiques,TR07,Périodes principales de séjour,r2_retired_outside,R2 retraités hors Valais,348,344,0,<5,0,98.850575
+Usages et sociabilités territoriales,TU01,Appartenance à au moins une organisation locale,r2_retired_outside,R2 retraités hors Valais,348,337,0,11,0,96.83908
+Usages et sociabilités territoriales,TU02,Fréquentation déclarée de l'autre groupe résidentiel,r2_retired_outside,R2 retraités hors Valais,348,332,0,16,0,95.402299
+Usages et sociabilités territoriales,TU03,Nombre de types de lieux fréquentés,r2_retired_outside,R2 retraités hors Valais,348,331,0,17,0,95.114943
+Usages et sociabilités territoriales,TU04,Nombre de types d'activités pratiquées,r2_retired_outside,R2 retraités hors Valais,348,329,0,19,0,94.54023
+Usages et sociabilités territoriales,TU05,Participation déclarée à des manifestations locales,r2_retired_outside,R2 retraités hors Valais,348,329,0,19,0,94.54023
+Rôle perçu dans le vivre-ensemble,RV01,Intérêt pour l'actualité politique communale,r2_retired_outside,R2 retraités hors Valais,348,298,20,30,0,85.632184
+Rôle perçu dans le vivre-ensemble,RV02,Intérêt pour le développement économique,r2_retired_outside,R2 retraités hors Valais,348,304,17,27,0,87.356322
+Rôle perçu dans le vivre-ensemble,RV03,Coresponsabilité envers la qualité de vie,r2_retired_outside,R2 retraités hors Valais,348,301,19,28,0,86.494253
+Vision du territoire,VT01,Nécessité des résidences secondaires malgré les inconvénients,r2_retired_outside,R2 retraités hors Valais,348,312,13,23,0,89.655172
+Vision du territoire,VT02,Commune principalement comme lieu de services et loisirs,r2_retired_outside,R2 retraités hors Valais,348,305,16,27,0,87.643678
+Vision du territoire,VT03,Ressources occupées au détriment des résidents principaux,r2_retired_outside,R2 retraités hors Valais,348,299,21,28,0,85.91954
+Ancrage et légitimité territoriale,LG01,Poids décisionnel supérieur des résidents principaux,r2_retired_outside,R2 retraités hors Valais,348,306,13,29,0,87.931034
+Perception des relations intergroupes,ER01,Méfiance entre groupes,r2_retired_outside,R2 retraités hors Valais,348,312,21,15,0,89.655172
+Perception des relations intergroupes,ER03,Évaluation en miroir de la cohabitation avec l’autre groupe,r2_retired_outside,R2 retraités hors Valais,348,304,19,25,0,87.356322
+Perception des relations intergroupes,FI01,Qualité des premières interactions avec l’autre groupe,r2_retired_outside,R2 retraités hors Valais,348,319,10,19,0,91.666667
+Configuration résidentielle et marqueurs biographiques,TR01,Origine valaisanne,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,137,137,0,0,0,100.0
+Configuration résidentielle et marqueurs biographiques,TR02,Année d'entrée dans la configuration résidentielle,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,137,91,0,46,0,66.423358
+Configuration résidentielle et marqueurs biographiques,TR04,Statut d'occupation du logement,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,137,136,0,<5,0,99.270073
+Ancrage et légitimité territoriale,TR05,Attachement déclaré à la commune,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,137,131,<5,<5,0,95.620438
+Ancrage et légitimité territoriale,TR06,Sentiment d'être chez soi,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,137,121,0,16,0,88.321168
+Configuration résidentielle et marqueurs biographiques,TR08,A toujours vécu dans la commune,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,137,137,0,0,0,100.0
+Configuration résidentielle et marqueurs biographiques,TR09,Était auparavant résident secondaire dans la commune,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,137,137,0,0,0,100.0
+Configuration résidentielle et marqueurs biographiques,TR10,Dispose actuellement d'une autre résidence secondaire en Valais,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,137,135,0,<5,0,98.540146
+Usages et sociabilités territoriales,TU01,Appartenance à au moins une organisation locale,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,137,131,0,6,0,95.620438
+Usages et sociabilités territoriales,TU02,Fréquentation déclarée de l'autre groupe résidentiel,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,137,119,0,18,0,86.861314
+Usages et sociabilités territoriales,TU03,Nombre de types de lieux fréquentés,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,137,120,0,17,0,87.591241
+Usages et sociabilités territoriales,TU04,Nombre de types d'activités pratiquées,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,137,119,0,18,0,86.861314
+Usages et sociabilités territoriales,TU05,Participation déclarée à des manifestations locales,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,137,119,0,18,0,86.861314
+Rôle perçu dans le vivre-ensemble,RV01,Intérêt pour l'actualité politique communale,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,137,105,9,23,0,76.642336
+Rôle perçu dans le vivre-ensemble,RV02,Intérêt pour le développement économique,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,137,105,9,23,0,76.642336
+Rôle perçu dans le vivre-ensemble,RV03,Coresponsabilité envers la qualité de vie,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,137,108,5,24,0,78.832117
+Vision du territoire,VT01,Nécessité des résidences secondaires malgré les inconvénients,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,137,107,12,18,0,78.10219
+Vision du territoire,VT02,Commune principalement comme lieu de services et loisirs,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,137,99,17,21,0,72.262774
+Vision du territoire,VT03,Ressources occupées au détriment des résidents principaux,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,137,102,13,22,0,74.452555
+Ancrage et légitimité territoriale,LG01,Poids décisionnel supérieur des résidents principaux,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,137,108,7,22,0,78.832117
+Perception des relations intergroupes,ER01,Méfiance entre groupes,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,137,107,16,14,0,78.10219
+Perception des relations intergroupes,ER03,Évaluation en miroir de la cohabitation avec l’autre groupe,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,137,104,9,24,0,75.912409
+Perception des relations intergroupes,FI01,Qualité des premières interactions avec l’autre groupe,r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,137,79,<5,55,0,57.664234

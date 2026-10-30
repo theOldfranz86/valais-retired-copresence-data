@@ -1,0 +1,15 @@
+stage,group,n,definition
+Export nettoyé,Tous,1685,Questionnaires disponibles après nettoyage Sphinx
+Questionnaires complets,Tous,1666,PROGRESSION commence par Terminé
+Statut R2 hors Valais,R2,767,Avant complétude et retraite
+R2 hors Valais complets,R2,761,
+R2 hors Valais complets et retraités,R2 focal,348,Population focale
+R2 avec évaluation intergroupe valide,R2 focal,304,"Énoncé de cohabitation avec les résidents principaux, catégories 1–5"
+Statut R1,R1,632,Avant complétude et retraite
+R1 complets,R1,625,Avant restriction à la retraite
+R1 complets et retraités,R1,191,Avant contrôle de l'ancien statut R2
+R1 retraités déclarant un ancien statut R2,Exclusion R1,51,Exclus du comparateur principal
+R1 retraités sans réponse sur l'ancien statut R2,Exclusion R1,<5,Exclus: absence de preuve d'un historique non-R2
+R1 retraités sans ancien statut R2 déclaré dans la commune,R1 comparateur,137,Réponse explicite « Non »; comparateur principal
+R1 retraités avec évaluation intergroupe valide,R1 comparateur,104,"Énoncé de cohabitation avec les résidents secondaires, catégories 1–5"
+Retraités dans l'export nettoyé,Tous,679,Avant restriction résidentielle et complétude

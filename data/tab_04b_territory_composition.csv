@@ -1,0 +1,59 @@
+group_id,group_label,dimension_id,dimension_label,statistic,category_id,category_label,count,valid_n,eligible_n,percent,ci_low,ci_high
+r2_retired_outside,R2 retraités hors Valais,organisations,Types d'organisations locales,Mention,residents_property,Association de résidents/propriétaires,194,337,348,57.566766,52.233794,62.729175
+r2_retired_outside,R2 retraités hors Valais,organisations,Types d'organisations locales,Mention,cultural,"Association culturelle (fanfare, chant, etc.),",22,337,348,6.52819,4.350306,9.685974
+r2_retired_outside,R2 retraités hors Valais,organisations,Types d'organisations locales,Mention,sports,"Club sportif (ski-club, pétanque, club de marche, etc.)",29,337,348,8.605341,6.058291,12.085469
+r2_retired_outside,R2 retraités hors Valais,organisations,Types d'organisations locales,Mention,political,Parti politique,5,337,348,1.48368,0.635361,3.425606
+r2_retired_outside,R2 retraités hors Valais,organisations,Types d'organisations locales,Mention,foundation,Conseil de fondation,5,337,348,1.48368,0.635361,3.425606
+r2_retired_outside,R2 retraités hors Valais,organisations,Types d'organisations locales,Mention,other,Autre,39,337,348,11.5727,8.582176,15.429415
+r2_retired_outside,R2 retraités hors Valais,organisations,Types d'organisations locales,Mention,none,Aucune,106,337,348,31.454006,26.729122,36.596936
+r2_retired_outside,R2 retraités hors Valais,people_first,Personnes fréquentées au premier rang,Premier rang,family,Famille,224,332,348,67.46988,62.255597,72.28451
+r2_retired_outside,R2 retraités hors Valais,people_first,Personnes fréquentées au premier rang,Premier rang,friends,Amies ou amis,55,332,348,16.566265,12.95418,20.943201
+r2_retired_outside,R2 retraités hors Valais,people_first,Personnes fréquentées au premier rang,Premier rang,secondary_residents,Personnes en résidence secondaire,30,332,348,9.036145,6.402862,12.606541
+r2_retired_outside,R2 retraités hors Valais,people_first,Personnes fréquentées au premier rang,Premier rang,primary_residents,Personnes en résidence principale,19,332,348,5.722892,3.694017,8.764676
+r2_retired_outside,R2 retraités hors Valais,people_first,Personnes fréquentées au premier rang,Premier rang,compatriots,Compatriotes,<5,332,348,,0.165358,2.169511
+r2_retired_outside,R2 retraités hors Valais,people_first,Personnes fréquentées au premier rang,Premier rang,expatriates,Personnes expatriées,<5,332,348,,0.05319,1.68616
+r2_retired_outside,R2 retraités hors Valais,people_first,Personnes fréquentées au premier rang,Premier rang,other,Autre,<5,332,348,,0.05319,1.68616
+r2_retired_outside,R2 retraités hors Valais,places_first,Lieux fréquentés au premier rang,Premier rang,shops,"Commerces (alimentation, boutiques)",230,331,348,69.486405,64.325761,74.199935
+r2_retired_outside,R2 retraités hors Valais,places_first,Lieux fréquentés au premier rang,Premier rang,sports_facilities,"Installations sportives (salle de sport, terrain, piscine)",41,331,348,12.386707,9.263426,16.373023
+r2_retired_outside,R2 retraités hors Valais,places_first,Lieux fréquentés au premier rang,Premier rang,restaurants,"Restaurants, cafés, bars",31,331,348,9.365559,6.676481,12.986992
+r2_retired_outside,R2 retraités hors Valais,places_first,Lieux fréquentés au premier rang,Premier rang,public_spaces,"Espaces publics (exemple : place de jeux, place du village)",17,331,348,5.135952,3.231045,8.070261
+r2_retired_outside,R2 retraités hors Valais,places_first,Lieux fréquentés au premier rang,Premier rang,administrative_buildings,"Bâtiments administratifs (commune, poste)",5,331,348,1.510574,0.646908,3.486827
+r2_retired_outside,R2 retraités hors Valais,places_first,Lieux fréquentés au premier rang,Premier rang,leisure_spaces,"Espaces de loisirs (cinéma, bibliothèque, centre culturel)",<5,331,348,,0.165858,2.175984
+r2_retired_outside,R2 retraités hors Valais,places_first,Lieux fréquentés au premier rang,Premier rang,worship,Lieux de culte,<5,331,348,,0.053351,1.691194
+r2_retired_outside,R2 retraités hors Valais,places_first,Lieux fréquentés au premier rang,Premier rang,associational,Lieux associatifs,<5,331,348,,0.053351,1.691194
+r2_retired_outside,R2 retraités hors Valais,places_first,Lieux fréquentés au premier rang,Premier rang,other,Autre,<5,331,348,,0.308708,2.630432
+r2_retired_outside,R2 retraités hors Valais,activities_first,Activités au premier rang,Premier rang,sports,"Activités sportives (exemple : gym, marche)",212,329,348,64.43769,59.125623,69.416495
+r2_retired_outside,R2 retraités hors Valais,activities_first,Activités au premier rang,Premier rang,home,"Activités à domicile (exemple: lecture, musique, peinture, etc.)",92,329,348,27.963526,23.389439,33.046276
+r2_retired_outside,R2 retraités hors Valais,activities_first,Activités au premier rang,Premier rang,cultural,"Activités culturelles (concerts, théâtre, expositions)",9,329,348,2.735562,1.445734,5.116387
+r2_retired_outside,R2 retraités hors Valais,activities_first,Activités au premier rang,Premier rang,local_events,Participation à des manifestations locales (exemple : loto),<5,329,348,,0.310588,2.646213
+r2_retired_outside,R2 retraités hors Valais,activities_first,Activités au premier rang,Premier rang,religious,Activités religieuses,<5,329,348,,0.053675,1.701352
+r2_retired_outside,R2 retraités hors Valais,activities_first,Activités au premier rang,Premier rang,other,Autre,12,329,348,3.647416,2.098575,6.266206
+r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,organisations,Types d'organisations locales,Mention,residents_property,Association de résidents/propriétaires,27,131,137,20.610687,14.569275,28.326626
+r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,organisations,Types d'organisations locales,Mention,cultural,"Association culturelle (fanfare, chant, etc.),",39,131,137,29.770992,22.608044,38.086538
+r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,organisations,Types d'organisations locales,Mention,sports,"Club sportif (ski-club, pétanque, club de marche, etc.)",40,131,137,30.534351,23.295662,38.882143
+r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,organisations,Types d'organisations locales,Mention,political,Parti politique,17,131,137,12.977099,8.262527,19.80114
+r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,organisations,Types d'organisations locales,Mention,foundation,Conseil de fondation,6,131,137,4.580153,2.115788,9.632422
+r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,organisations,Types d'organisations locales,Mention,other,Autre,25,131,137,19.083969,13.27384,26.655614
+r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,organisations,Types d'organisations locales,Mention,none,Aucune,40,131,137,30.534351,23.295662,38.882143
+r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,people_first,Personnes fréquentées au premier rang,Premier rang,family,Famille,72,119,137,60.504202,51.5249,68.826535
+r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,people_first,Personnes fréquentées au premier rang,Premier rang,friends,Amies ou amis,30,119,137,25.210084,18.267634,33.702979
+r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,people_first,Personnes fréquentées au premier rang,Premier rang,secondary_residents,Personnes en résidence secondaire,<5,119,137,,0.462118,5.92128
+r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,people_first,Personnes fréquentées au premier rang,Premier rang,primary_residents,Personnes en résidence principale,10,119,137,8.403361,4.628481,14.779835
+r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,people_first,Personnes fréquentées au premier rang,Premier rang,compatriots,Compatriotes,<5,119,137,,0.861023,7.150489
+r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,people_first,Personnes fréquentées au premier rang,Premier rang,expatriates,Personnes expatriées,<5,119,137,,0.148494,4.606789
+r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,people_first,Personnes fréquentées au premier rang,Premier rang,other,Autre,<5,119,137,,0.148494,4.606789
+r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,places_first,Lieux fréquentés au premier rang,Premier rang,shops,"Commerces (alimentation, boutiques)",63,120,137,52.5,43.626995,61.217909
+r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,places_first,Lieux fréquentés au premier rang,Premier rang,sports_facilities,"Installations sportives (salle de sport, terrain, piscine)",5,120,137,4.166667,1.792672,9.384085
+r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,places_first,Lieux fréquentés au premier rang,Premier rang,restaurants,"Restaurants, cafés, bars",14,120,137,11.666667,7.078118,18.633352
+r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,places_first,Lieux fréquentés au premier rang,Premier rang,public_spaces,"Espaces publics (exemple : place de jeux, place du village)",7,120,137,5.833333,2.854101,11.552592
+r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,places_first,Lieux fréquentés au premier rang,Premier rang,administrative_buildings,"Bâtiments administratifs (commune, poste)",16,120,137,13.333333,8.376609,20.564797
+r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,places_first,Lieux fréquentés au premier rang,Premier rang,leisure_spaces,"Espaces de loisirs (cinéma, bibliothèque, centre culturel)",<5,120,137,,0.147256,4.569629
+r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,places_first,Lieux fréquentés au premier rang,Premier rang,worship,Lieux de culte,7,120,137,5.833333,2.854101,11.552592
+r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,places_first,Lieux fréquentés au premier rang,Premier rang,associational,Lieux associatifs,<5,120,137,,0.458256,5.873596
+r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,places_first,Lieux fréquentés au premier rang,Premier rang,other,Autre,5,120,137,4.166667,1.792672,9.384085
+r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,activities_first,Activités au premier rang,Premier rang,sports,"Activités sportives (exemple : gym, marche)",45,119,137,37.815126,29.612378,46.779958
+r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,activities_first,Activités au premier rang,Premier rang,home,"Activités à domicile (exemple: lecture, musique, peinture, etc.)",50,119,137,42.016807,33.534414,50.998495
+r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,activities_first,Activités au premier rang,Premier rang,cultural,"Activités culturelles (concerts, théâtre, expositions)",6,119,137,5.042017,2.331032,10.564825
+r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,activities_first,Activités au premier rang,Premier rang,local_events,Participation à des manifestations locales (exemple : loto),<5,119,137,,1.314775,8.324852
+r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,activities_first,Activités au premier rang,Premier rang,religious,Activités religieuses,8,119,137,6.722689,3.445575,12.706512
+r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,activities_first,Activités au premier rang,Premier rang,other,Autre,6,119,137,5.042017,2.331032,10.564825

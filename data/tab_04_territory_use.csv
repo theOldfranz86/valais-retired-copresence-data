@@ -1,0 +1,11 @@
+group_id,group_label,indicator_id,indicator_label,statistic,valid_n,eligible_n,value,q1,q3,unit
+r2_retired_outside,R2 retraités hors Valais,TU01,Appartenance à au moins une organisation locale,Oui,337,348,68.84273,63.709,73.551725,% [IC95 %]
+r2_retired_outside,R2 retraités hors Valais,TU02,Fréquentation déclarée de l'autre groupe résidentiel,Oui,332,348,50.903614,45.54664,56.239917,% [IC95 %]
+r2_retired_outside,R2 retraités hors Valais,TU05,Participation déclarée à des manifestations locales,Oui,329,348,24.316109,19.994318,29.230758,% [IC95 %]
+r2_retired_outside,R2 retraités hors Valais,TU03,Nombre de types de lieux fréquentés,Médiane [Q1–Q3],331,348,3.0,2.0,4.0,modalités sélectionnées
+r2_retired_outside,R2 retraités hors Valais,TU04,Nombre de types d'activités pratiquées,Médiane [Q1–Q3],329,348,2.0,2.0,3.0,modalités sélectionnées
+r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,TU01,Appartenance à au moins une organisation locale,Oui,131,137,70.229008,61.913462,77.391956,% [IC95 %]
+r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,TU02,Fréquentation déclarée de l'autre groupe résidentiel,Oui,119,137,34.453782,26.522239,43.357637,% [IC95 %]
+r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,TU05,Participation déclarée à des manifestations locales,Oui,119,137,37.815126,29.612378,46.779958,% [IC95 %]
+r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,TU03,Nombre de types de lieux fréquentés,Médiane [Q1–Q3],120,137,3.0,3.0,4.0,modalités sélectionnées
+r1_retired,R1 retraités sans ancien statut R2 déclaré dans la commune,TU04,Nombre de types d'activités pratiquées,Médiane [Q1–Q3],119,137,3.0,2.0,3.0,modalités sélectionnées
